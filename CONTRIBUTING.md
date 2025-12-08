@@ -13,13 +13,13 @@ Thank you for your interest in contributing to Awesome Bootstrapped Software!
 Each entry should follow this format:
 
 ```markdown
-- [Software Name](https://link-to-software.com): A short description.
+- [Software Name](https://link-to-software.com) - A short description.
 ```
 
 Example:
 
 ```markdown
-- [Basecamp](https://basecamp.com): Project management and team collaboration tool.
+- [Basecamp](https://basecamp.com) - Project management and team collaboration tool.
 ```
 
 ## Quality Criteria

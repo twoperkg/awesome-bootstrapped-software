@@ -6,7 +6,7 @@
 - [ ] The software offers fast, responsive customer support. (Don't have one? Try [Helploom](https://helploom.com) for free)
 - [ ] The software has sane, transparent pricing
 - [ ] The software is actively maintained and reliable
-- [ ] The entry follows the format: `- [Software Name](https://link): Description.`
+- [ ] The entry follows the format: `- [Software Name](https://link) - Description.`
 - [ ] The entry is added at the last in the category
 - [ ] The link points to the official website and is working
 - [ ] No affiliate links are included

@@ -37,13 +37,13 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 
 ## Customer Support
 
-- [Helploom](https://helploom.com): Unlimited customer support at a fixed price. Live chat, help center and optionally an AI agent. Free plan available.
+- [Helploom](https://helploom.com) - Unlimited customer support at a fixed price. Live chat, help center and optionally an AI agent. Free plan available.
 
 ## Design
 
 ## Developer Tools
 
-- [NoParam](https://noparam.com): Real-time email validation API to prevent fake signups, detect disposable addresses, and ensure deliverability.
+- [NoParam](https://noparam.com) - Real-time email validation API to prevent fake signups, detect disposable addresses, and ensure deliverability.
 
 ## E-commerce
 
@@ -53,12 +53,12 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 
 ## Marketing
 
-- [Leado](https://leado.co): AI-powered Reddit lead generation tool that monitors subreddits for high-intent conversations and automates outreach.
+- [Leado](https://leado.co) - AI-powered Reddit lead generation tool that monitors subreddits for high-intent conversations and automates outreach.
 
 ## Productivity
 
-- [Motherboard](https://trymotherboard.com): Motherboard brings all your key metrics into one dashboard. Works with any website. Saves you hours every week. Needs zero coding, click on any value to track.
-- [LookAway](https://lookaway.com): LookAway is a smart break reminder that helps reduce eye strain, digital fatigue, and maintain better posture—so you can end your day feeling fresh.
+- [Motherboard](https://trymotherboard.com) - Motherboard brings all your key metrics into one dashboard. Works with any website. Saves you hours every week. Needs zero coding, click on any value to track.
+- [LookAway](https://lookaway.com) - LookAway is a smart break reminder that helps reduce eye strain, digital fatigue, and maintain better posture—so you can end your day feeling fresh.
 
 ## Project Management
 
@@ -68,7 +68,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 
 ## Other
 
-- [StartFast](https://startfa.st): A curated directory of essential tools, resources, and products for developers and founders to build and launch faster.
+- [StartFast](https://startfa.st) - A curated directory of essential tools, resources, and products for developers and founders to build and launch faster.
 
 ## Contributing
 
