@@ -9,6 +9,7 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
 - [Awesome Bootstrapped Software](#awesome-bootstrapped-software)
   - [Contents](#contents)
   - [Analytics](#analytics)
+  - [API](#api)
   - [Business Intelligence](#business-intelligence)
   - [Communication \& Collaboration](#communication--collaboration)
   - [CRM](#crm)
@@ -28,6 +29,9 @@ Find lean, reliable software built by bootstrapped founders who prioritize usabi
   - [License](#license)
 
 ## Analytics
+
+## API
+- [Brand.dev](https://brand.dev) - API to personalize your product with logos, colors, and company info from any domain.
 
 ## Business Intelligence
 
